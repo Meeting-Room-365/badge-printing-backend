@@ -1,0 +1,25 @@
+{
+  "name": "badge-printing-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Meeting-Room-365/badge-printing-backend.git"
+  },
+  "author": "James Futhey <futhey@gmail.com> (http://jamesfuthey.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Meeting-Room-365/badge-printing-backend/issues"
+  },
+  "homepage": "https://github.com/Meeting-Room-365/badge-printing-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "html-pdf": "^2.2.0"
+  }
+}
