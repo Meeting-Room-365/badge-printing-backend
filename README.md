@@ -17,3 +17,7 @@ This API consists of one endpoint, which takes information supplied via URL Para
 ## Deployment
 
 This is ready for deployment via Heroku, Now.sh (Vercel), or Dokku. Port may need to be changed in index.js
+
+## License
+
+This codebase is not licensed for external use by entities other than the author.
