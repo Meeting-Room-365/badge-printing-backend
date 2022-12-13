@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/Meeting-Room-365/badge-printing-backend#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "fs": "0.0.1-security",
     "html-pdf": "^2.2.0"
   }
